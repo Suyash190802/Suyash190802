@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Suyash Choudhary
 # 💫 About Me:
-🎓 MCA Student | 💡 Tech Enthusiast | 🏋️ Fitness Lover<br><br>🔭 Currently working on Full Stack Development & Backend Systems<br>💻 Skilled in JavaScript, HTML, CSS, PHP, Laravel<br>🚀 Building projects like:<br>             🦠 COVID-19 Tracker<br>             💱 ForexPro-Currency Converter & Analytics<br>             🏋️ Stay Fit Pro (Fitness App)<br>📚 Passionate about learning modern web technologies & APIs<br>🧠 Strong interest in problem solving & clean code<br><br>🏆 Achievements<br><br> 🥇 Winner - Poetry Competition (BHI Culture Fest)  <br> 🥇 Winner - Mime Competition (BHI Culture Fest) <br><br>
+🎓 MCA Student | 💡 Tech Enthusiast | 🏋️ Fitness Lover<br><br>🔭 Currently working on Full Stack Development & Backend Systems<br>💻 Skilled in JavaScript, HTML, CSS, PHP, Laravel<br>🚀 Building projects like:<br>             🦠 COVID-19 Tracker<br>             💱 ForexPro-Currency Converter & Analytics<br>             🏋️ Stay Fit Pro (Fitness App)<br>📚 Passionate about learning modern web technologies & APIs<br>🧠 Strong interest in problem solving & clean code<br><br>🏆 Achievements<br><br> 🥇 Winner - Poetry Competition (IIT Bombay Culture Fest)  <br><br> 🥇 Winner - Poetry Competition (IIT BHU Culture Fest)  <br> 🥇 Winner - Mime Competition (IIT BHU Culture Fest) <br><br>
 
 
 ## 🌐 Socials:
