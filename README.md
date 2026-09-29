@@ -101,14 +101,16 @@ class Suyash:
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
 
-<img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
-<img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Used Languages" />
+[![GitHub](https://img.shields.io/badge/GitHub-Suyash190802-181717?style=for-the-badge&logo=github)](https://github.com/Suyash190802)
+![Followers](https://img.shields.io/github/followers/Suyash190802?style=for-the-badge&logo=github&color=2c5364)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/suyashchoudhary76/)
 
-<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
-
-<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
+| 🧠 Focus | 🛠️ Main Languages | 🚀 Live Projects |
+|:--:|:--:|:--:|
+| Full Stack & Backend | Python · JavaScript · PHP | 4 deployed apps |
 
 </div>
 
