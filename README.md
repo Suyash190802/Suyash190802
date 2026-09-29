@@ -103,12 +103,12 @@ class Suyash:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Suyash190802&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyash190802&theme=tokyonight&hide_border=true&layout=compact" />
+<img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+<img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Used Languages" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Suyash190802&theme=tokyonight&hide_border=true" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suyash190802&theme=tokyo-night&hide_border=true&area=true" />
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
 
 </div>
 
