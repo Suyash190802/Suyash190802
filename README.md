@@ -49,7 +49,7 @@ class Suyash:
 | 💱 **ForexPro** | Currency converter with live rates & analytics dashboard <br> [🔗 Live Demo](https://currencyappexhange.netlify.app/) | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![API](https://img.shields.io/badge/-REST%20API-009688?style=flat-square) |
 | 🏋️ **Stay Fit Pro** | Fitness app for workout & health tracking <br> [🔗 Live Demo](https://stay-fit-pro.netlify.app/) | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML/CSS-E34F26?logo=html5&logoColor=white&style=flat-square) |
 | 🏥 **Medi-Care** | Healthcare web platform for medical services & patient care <br> [🔗 Live Demo](https://healpoint-medicare.netlify.app/) | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML/CSS-E34F26?logo=html5&logoColor=white&style=flat-square) |
-| 🦠 **COVID-19 Tracker** | Real-time COVID-19 statistics using public APIs | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML/CSS-E34F26?logo=html5&logoColor=white&style=flat-square) |
+| 🦠 **COVID-19 Tracker** | Real-time COVID-19 statistics using public APIs <br> [🔗 Live Demo](covid19trackerliveapp.netlify.app) | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML/CSS-E34F26?logo=html5&logoColor=white&style=flat-square) |
 
 ### ⚙️ Spotlight: CompileNova
 
